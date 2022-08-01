@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ivashin/static/css/main.328d6cb3.css",
-    "main.js": "/ivashin/static/js/main.df84fb5d.js",
-    "static/media/loader.gif": "/ivashin/static/media/loader.2187296e5d399b5c8373.gif",
-    "index.html": "/ivashin/index.html",
-    "main.328d6cb3.css.map": "/ivashin/static/css/main.328d6cb3.css.map",
-    "main.df84fb5d.js.map": "/ivashin/static/js/main.df84fb5d.js.map"
+    "main.css": "/static/css/main.328d6cb3.css",
+    "main.js": "/static/js/main.acedb410.js",
+    "static/media/loader.gif": "/static/media/loader.2187296e5d399b5c8373.gif",
+    "index.html": "/index.html",
+    "main.328d6cb3.css.map": "/static/css/main.328d6cb3.css.map",
+    "main.acedb410.js.map": "/static/js/main.acedb410.js.map"
   },
   "entrypoints": [
     "static/css/main.328d6cb3.css",
-    "static/js/main.df84fb5d.js"
+    "static/js/main.acedb410.js"
   ]
 }
